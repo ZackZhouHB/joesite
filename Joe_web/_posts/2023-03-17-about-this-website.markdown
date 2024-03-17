@@ -13,9 +13,8 @@ This is my first web blog using Jekyll, as an pratical way to show my writing sc
 
 
 
-- 
 
--
+
 
  <ins> Dairy</ins>  
  
