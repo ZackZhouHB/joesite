@@ -4,23 +4,23 @@ title: Reading List
 permalink: /ReadingList/
 ---
 
-In recent years, I had been following bellow AWS, DEVOPS and Kubernetes roadmaps, which streamline my personal learning process, provide clear each path to mastery on each area, and equip me with the comprehensive skill development and knowledge needed for success in the cloud computing industry. 
+Over past 2 years, I had been following bellow lists, to expand my reading scope for success in the children's literature. 
 
 ==================================================================
 
-<b>AWS Roadmap</b>
-
-
-
-==================================================================
-
-<b>DEVOPS Roadmap</b>
+<b>TBD</b>
 
 
 
 ==================================================================
 
-<b>Kubernetes Roadmap</b>
+<b>TBD</b>
+
+
+
+==================================================================
+
+<b>TBD</b>
 
 
 

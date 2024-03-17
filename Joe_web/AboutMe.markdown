@@ -4,23 +4,23 @@ title: About Me
 permalink: /AboutMe/
 ---
 
-Lists of my github repos with devops concepts and tools used:
-
 ====================================================================
 
-<b>[Zack-blog-Gitops-Project]: </b>
+<b>[Joe]: </b>
 
-Gitops project with Github Action workflow to create and practise CICD pipeline to build and deploy this <b>"Zack's Blog"</b> website onto both AWS EC2 by docker and to AWS EKS managed nodegroup sync by ArgoCD, with route53 public zone to Godaddy DNS
+My name is <b>"Joe Zhou"</b>, I am 8 years old. My dream is to become a famous writer with fantastic books to inspire people. 
 
 
 
-Github action workflows: 
+I like: 
 
-- <b>Zackweb image build CI pipeline</b> : 2 layer docker image build, tag, push to dockerhub
+- <b>Reading</b> : I read widely and carefully as it is the 1st step and a key to achieving my writer's dream, my most recent favourite books are from David Williams and Roald Dahl.
 
-- <b>Stagging depolyment</b> : ssh to EC2 instance, pull latest image and docker run
+- <b>School</b> : I am current a year 3 student at E.P.S Sydney New South Wales, Australia.ssh to EC2 instance, pull latest image and docker run
 
-- <b>Terraform-EKS-Argocd-pipeline for Prod</b> : Terraform create VPC & EKS (module), argocd install, web app deploy and sync
+- <b>Writing</b> : Since 6 years old, I have started to write several books with some of my bright and creative ideas. 
+
+
 
 
 
