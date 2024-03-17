@@ -12,7 +12,7 @@ University of Wollongong  -- 2008-2010     Wollongong, NSW
 
 South-Central University -- 2004-2008     China 
      
-===============================================
+================================================
 
 <b>AWS Certification</b>
 
