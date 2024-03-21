@@ -66,7 +66,7 @@ The following week, a congratulation email popped on his phone.
 
 Jack's eyes widened when he realized he had secured the job. He was thrilled to call his parent to thank them for their all-time support.
 
-After years of hard work as a reporter, Jack eventually became one of the most famous journalists in the country. He fearlessly exposed hundreds of robbers and gangsters through his investigation; he even risked his life by going undercover to reveal the truth.
+After years of hard work as a reporter, Jack eventually became one of the most famous journalists in the country. He fearlessly exposed hundreds of robbers and gangsters through his investigation; Many times he even risked his life by going undercover to reveal the truth. Thanks to his bravery and influence, more people in the town now stand up and fight for looting and crime.  
 
 That was Jack's story.
 
