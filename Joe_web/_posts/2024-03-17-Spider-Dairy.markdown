@@ -28,6 +28,7 @@ I took a vast look around. I saw a grey, soft sofa, a big-screened television, a
 Since the woman was not there, I tried to escape. However, from gnawing walls to kicking sides, none of them seemed to work. Exhausted, I drifted to slumber. I awoke to the sight of a creeping-looking child. He had his school bag on and a threatening hairstyle. His grin was so menacing that I thought he was going to penetrate something sharp into me or mash me up into a disgusting paste……
 
 
+
 TO BE CONTINUED...
 
 ![image tooltip here](/assets/spider-dairy-1.jpg)

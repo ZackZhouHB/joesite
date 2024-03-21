@@ -16,11 +16,11 @@ This is my first web blog using Jekyll, as an pratical way to show my writing sc
 
 
 
- <ins> Dairy</ins>  
+ <ins> Spider Dairy </ins>  
  
- <ins> Story</ins>  
+ <ins> The Ants Revange </ins>        coming soon 
  
- <ins> Fiction</ins>  
+ <ins> Fables </ins>           coming soon
 
 
 
