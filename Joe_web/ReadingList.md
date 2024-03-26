@@ -82,10 +82,16 @@ Over past 2 years, I had been following bellow lists, to expand my reading scope
 - Demon Dentist
 - Grandpa's Great Escape
 - Bad Dad
+- Rat Burger
+- Robodog
 
 ==================================================================
 
-<b>Hey Jack Series</b>
+<b>Dr Suess </b>
+
+- The Lorax
+- The Cat in the Hat
+
 
 ==================================================================
 
