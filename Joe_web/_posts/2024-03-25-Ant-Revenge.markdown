@@ -5,6 +5,8 @@ date:   2024-3-25 19:15:29 +1100
 categories: jekyll Cat2
 ---
 
+Key Words:  <em>"Revenge"</em>  <em>"point of view of ant" </em> <em>"teamwork" </em>
+
 <b>Chapter 1 - The Spickerock Family</b>
 
 

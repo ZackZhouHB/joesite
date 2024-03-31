@@ -5,7 +5,14 @@ date:   2024-3-30 19:15:29 +1100
 categories: jekyll Cat2
 ---
 
-<b>The Lorax - Book Review</b>
+
+
+Key Words:  <em>"BookReview"</em>  <em>"Environment" </em> <em>"Timeless story" </em>
+
+
+Vocabularies: <mark> leftover </mark>, <mark> sustainability </mark>,<mark> ecosystem </mark>,<mark> greenhouse gases </mark>,<mark> climate change </mark>,<mark> mitigation </mark>,<mark> carbon dioxide </mark>,<mark> pollution </mark> 
+
+
 
 "The Lorax" by Dr. Seuss, is an educational story, with memorable rhymes and illustrations. It tells the readers to respect the nature environment and not be like the greedy Once-ler, it uses a present, past and future structure. 
 
@@ -14,7 +21,6 @@ I like Dr. Seuss's made-up words in the book, like "thneed" and "wisper-ma-phone
 The story starts when a boy asked the Once-ler to tell him about how the Lorax was lifted away. It turned out that back in the time when the environment was still green, a greedy Once-ler discovered the Trufulla forest and started chopping down them to make a "Thneed" to make money. Then a creature called the Lorax who speaks for the trees and animals scolded the greedy businessman. However, the Onceler ignored the warning and continued to grow his business by using tools and building factories to produce more thneeds and deliver everywhere to get rich. The Lorax once again appeared to tell him the impact on the forest animals but Onceler refused to listen until the last tree was chopped. 
 
 At the end of the story, the regretted Once-ler offered the very last Trufulla seed to the boy and hoped he will restore the balance of nature. 
-
 
 
 ![image tooltip here](/assets/lorax.png)
