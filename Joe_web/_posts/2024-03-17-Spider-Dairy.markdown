@@ -6,7 +6,7 @@ categories: jekyll Cat2
 ---
 
 
-Key Words:  <em>"Adventure"</em>  <em>"point of view of spider" </em> <em>"human & animal relation" </em>
+Key Words:  <em>"Adventure"</em>  <em>"From spider point of view of " </em> <em>"human & animal relation" </em>
 
 <b>MONDAY - The Day it started 2024/03/17</b>
 
