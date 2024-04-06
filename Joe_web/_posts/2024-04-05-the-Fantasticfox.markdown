@@ -16,7 +16,7 @@ Vocabularies: <mark> moral </mark>, <mark> concepts </mark>,<mark> victory </mar
 <b>Joe's original version:</b>
 
 
-Fantastic Mr Fox by Rould Daul is a brilliant short novel because of its escalating tension, excitement and moral concepts. For example, when Mr. Fox bought food back, he gave it to his wife instead of himself. Here is how the story unfolds:
+Fantastic Mr Fox by Rould Daul is a brilliant short novel because of its escalating tension, excitement and moral concepts. For example, when Mr. Fox brought food back, he gave it to his wife instead of himself. Here is how the story unfolds:
 
 Mr. Fox and his family lived underground near the farms of three mean farmers Boggis and Bunce and Bean. Each day, Mr fox would steal food from them and bring them back for his children and wife, Mrs Fox. 
 
@@ -38,12 +38,12 @@ I learn how to be a good husband when I grow up, and what it takes to be fantast
 
 Mr. Fox and his family lived underground near the farms of three mean owners: Boggis, Bunce, and Bean. Every day, Mr. Fox would cleverly sneak into the farms to bring food back to his family safely.
 
-But one day, the farmers decided they had enough. They wanted to stop Mr. Fox once and for all! They planned to shoot off his tail, but Mr. Fox outsmarted them and escaped.
+But one day, the farmers decided they had enough. They wanted to stop Mr. Fox once and for all! They waited in ambush but only shot off a tail due to Mr. Fox outsmarted them and escaped.
 
 The farmers didn't give up though. They started digging to find Mr. Fox and his family. They even used big tractors to try and destroy the hill where the foxes lived!
 
-But Mr. Fox was clever. He and his children, along with their animal friends, dug tunnels to each of the farmers' storehouses. They stole food without the farmers ever knowing!
+But Mr. Fox was clever and brave. He and his children, along with their animal friends, dug tunnels to each of the farmers' storehouses. They stole food without the farmers ever knowing!
 
 In the end, the foxes celebrated their victory with a big feast. Meanwhile, the farmers were left waiting outside in the rain, still trying to catch them.
 
-This story is not only thrilling but also teaches important lessons about being clever and brave. It shows us what it means to be a good husband and how to handle challenging situations. It reminds me of another movie called "Home Alone," where a little boy also outsmarts some bad guys. I love "Fantastic Mr. Fox" because it has great characters, easy-to-understand descriptions, and teaches us valuable lessons about thinking and acting smartly when things get tough.
+This story is not only thrilling but also teaches important lessons about being clever and brave with determination. It shows us what it means to be a good husband and how to handle challenging situations. It reminds me of another movie called "Home Alone," where a little boy also outsmarts some bad guys. I love "Fantastic Mr. Fox" because it has great characters, easy-to-understand descriptions, and teaches us valuable lessons about thinking and acting smartly when things get tough.
