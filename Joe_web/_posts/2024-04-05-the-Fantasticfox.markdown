@@ -40,7 +40,7 @@ Mr. Fox and his family lived underground near the farms of three mean owners: Bo
 
 But one day, the farmers decided they had enough. They wanted to stop Mr. Fox once and for all! They waited in ambush but only shot off a tail due to Mr. Fox outsmarted them and escaped.
 
-The farmers didn't give up though. They started digging to find Mr. Fox and his family. They even used big tractors to try and destroy the hill where the foxes lived!
+The farmers didn't give up, though. They started digging to find Mr. Fox and his family. They used big tractors to try and destroy the hill where the foxes lived. Ultimately, they placed guards at every possible exit around the area to trap and starve the foxes!
 
 But Mr. Fox was clever and brave. He and his children, along with their animal friends, dug tunnels to each of the farmers' storehouses. They stole food without the farmers ever knowing!
 
