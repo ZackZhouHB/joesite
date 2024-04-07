@@ -7,7 +7,7 @@ categories: jekyll Cat2
 
 
 
-Key Words:  <em>"BookReview"</em>  <em>"Rould Dahl" </em> <em>" Adventure and Family" </em>
+Key Words:  <em>"BookReview"</em>  <em>"Roald Dahl" </em> <em>" Adventure and Family" </em>
 
 
 Vocabularies: <mark> moral </mark>, <mark> concepts </mark>,<mark> victory </mark>,<mark> Ultimately </mark>,<mark> sumptuous </mark>,<mark> thrilling  </mark>,<mark> storytelling  </mark>,<mark> challenging  </mark> 
@@ -16,7 +16,7 @@ Vocabularies: <mark> moral </mark>, <mark> concepts </mark>,<mark> victory </mar
 <b>Joe's original version:</b>
 
 
-Fantastic Mr Fox by Rould Daul is a brilliant short novel because of its escalating tension, excitement and moral concepts. For example, when Mr. Fox brought food back, he gave it to his wife instead of himself. Here is how the story unfolds:
+Fantastic Mr Fox by Roald Dahl is a brilliant short novel because of its escalating tension, excitement and moral concepts. For example, when Mr. Fox brought food back, he gave it to his wife instead of himself. Here is how the story unfolds:
 
 Mr. Fox and his family lived underground near the farms of three mean farmers Boggis and Bunce and Bean. Each day, Mr fox would steal food from them and bring them back for his children and wife, Mrs Fox. 
 
@@ -38,12 +38,12 @@ I learn how to be a good husband when I grow up, and what it takes to be fantast
 
 Mr. Fox and his family lived underground near the farms of three mean owners: Boggis, Bunce, and Bean. Every day, Mr. Fox would cleverly sneak into the farms to bring food back to his family safely.
 
-But one day, the farmers decided they had enough. They wanted to stop Mr. Fox once and for all! They waited in ambush but only shot off a tail due to Mr. Fox outsmarted them and escaped.
+But one day, the farmers decided they had enough. They wanted to stop Mr. Fox once and for all! They waited in ambush but only shot off a tail as Mr. Fox outsmarted them and escaped.
 
-The farmers didn't give up, though. They started digging to find Mr. Fox and his family. They used big tractors to try and destroy the hill where the foxes lived. Ultimately, they placed guards at every possible exit around the area to trap and starve the foxes!
+The farmers didn't give up, though. They started digging to catch Mr. Fox and his family. They used big tractors to try and destroy the hill where the foxes lived. In addtion, they placed guards at every possible exit around the whole area to trap and starve the fox family!
 
-But Mr. Fox was clever and brave. He and his children, along with their animal friends, dug tunnels to each of the farmers' storehouses. They stole food without the farmers ever knowing!
+But Mr. Fox was clever and brave. He and his children, along with their animal friends, dug tunnels to each of the farmers' storehouses quietly. They stole food without all farmers ever knowing!
 
-In the end, the foxes celebrated their victory with a big feast. Meanwhile, the farmers were left waiting outside in the rain, still trying to catch them.
+In the end, the foxes celebrated their victory with a big feast toghther all the other underground animals. Meanwhile, the farmers were left waiting outside in the rain, still trying to catch them.
 
-This story is not only thrilling but also teaches important lessons about being clever and brave with determination. It shows us what it means to be a good husband and how to handle challenging situations. It reminds me of another movie called "Home Alone," where a little boy also outwits some bad guys with his cleverness, courage and bravery. I love "Fantastic Mr. Fox" because it has great characters, easy-to-understand descriptions, and teaches us valuable lessons about thinking and acting smartly when things get tough.
+This book is not only thrilling storytelling and illustration but also uses Mr fox as a perfect example to show kids how to think and act cleverly and bravely with determination in urgent or challenging situations, and how to take responsibility and provide for family and community. I remember another movie "Home Alone," where a little boy also outwits two adult bad guys with his cleverness, courage and bravery. I love "Fantastic Mr. Fox" because it has great characters, easy-to-understand descriptions, and teaches us valuable lessons about being smart and brave when things get tough.
