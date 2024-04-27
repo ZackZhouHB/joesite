@@ -5,7 +5,7 @@ date:   2024-4-25 19:15:29 +1100
 categories: jekyll Cat2
 ---
 
-Key Words:  <em>"MovieReview"</em>  <em>"Comparision" </em>
+Key Words:  <em>"MovieReview"</em>  <em>"Comparison" </em>
 
 Vocabularies: <mark> pros and cons </mark>, <mark> posh </mark>,<mark> independent </mark>,<mark> intelligence </mark>
 
