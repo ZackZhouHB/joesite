@@ -5,6 +5,19 @@ date:   2024-4-25 19:15:29 +1100
 categories: jekyll Cat2
 ---
 
+Key Words:  <em>"MovieReview"</em>  <em>"Comparision" </em>
 
+Vocabularies: <mark> pros and cons </mark>, <mark> posh </mark>,<mark> independent </mark>,<mark> intelligence </mark>
+
+
+<b>Matilda Movie Comparision 1996 vs 2022:</b>
+
+Both Matilda movies have different pros and cons. 
+
+In Matilda the Musical (2022) there were songs with rhymes and fantastic dancing like another recent movie "Wonka", it added Phys Ed, removed Matilda’s brother Micheal and more detailed descriptions of Miss Honey’s story. The cons are that Matilda is too childish and posh by saying ‘That’s not right’ or ‘Isn’t it well kind of wrong’ and acts more like a hero who saved the school. It also changed about 30% of the story from the book written by Roald Daul. 
+
+In the old version of Matilda on 1996, however, the characters performed better, added parts like Matilda sneaking into the Trunchbull’s house to collect Lisy doll and two pieces of chocolate or the FBI watching the Wormwood’s house and I loved the incredible pancake scene. The negative part of this version can be that Matilda is more independent and mature but is too quiet and some scenes were too slow. 
+
+Overall, the two movies all share the same morals and messages - the power of kindness, intelligence and standing up to bullies. I think both movies are on the same level because of Matilda the Musical (2022)’s songs and Matilda (1996)’s actors. They all deserve a rating of 7.0 out of 10.0.
 
 ![image tooltip here](/assets/matilda.png)
