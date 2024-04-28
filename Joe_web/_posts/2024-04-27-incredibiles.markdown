@@ -14,7 +14,7 @@ Vocabularies: <mark> forcefield </mark>, <mark> lack </mark>,<mark> sued </mark>
 
 Mr. Incredible (Bob) was the world's greatest superhero because of his strength that protected the city from danger. 
 
-His greatest fan was a boy named Buddy, but the boy was denied to become Bob's sidekick. After a while, Bob married Elastic Girl, another superhero, and then got three children – Dash, the little boy with lightning speed, a teenager girl with the ability to turn invisible and create forcefield, and a baby, Jack Jack.
+His biggest fan was a boy named Buddy, but the boy was denied to become Bob's sidekick. After a while, Bob married Elastic Girl, another superhero, and then got three children – Dash, the little boy with lightning speed, a teenager girl with the ability to turn invisible and create forcefield, and a baby, Jack Jack.
 
 Unfortunately, as people sued superheroes, the Incredible family had to hide their abilities. Until Mr Incredible started to work secretly for an agency on an island, which made him a lot happier than before.
 
