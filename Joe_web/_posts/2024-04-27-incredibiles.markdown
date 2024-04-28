@@ -23,6 +23,10 @@ However, Bob soon discovered that he was working for Buddy who had terminated ma
 In the meantime, the superhero's wife found out Bob's secret job and decided to rescue him. On the island, the incredible family fought together against Buddy's evil plan and finally defeated the robot to save the city.
 
 
-I think this is the best superhero movie because of the cool fighting scenes, how each character has their own ability and challanges to overcome. It stands out from other superhero movies by its stunning animation, wonderful storytelling, a mixture of family, teamwork and superhero all in one. I also love the scene when the incredible family fought against the guards in flying saucers. Everyone in the family eventually finds themselves, like Mr. Incredible learned teamwork instead of fighting alone. The filmmaker put in a lot of effort and details to show his ambition to deliver a unique superhero-type animation movie, overall I will rate this movie 8.2 out of 10.
+I think this is the best superhero movie because of the cool fighting scenes, how each character has their own ability and challanges to overcome. It stands out from other superhero movies by its stunning animation, wonderful storytelling, a mixture of family, teamwork and superhero all in one. 
+
+I also love the scene when the incredible family fought against the guards in flying saucers. Everyone in the family eventually finds themselves, like Mr. Incredible learnt teamwork instead of fighting alone. The filmmaker put in a lot of effort and details to show his ambition to deliver a unique superhero-type animation movie.
+
+Overall I will rate this movie 8.2 out of 10.
 
 ![image tooltip here](/assets/incredibles.png)
