@@ -18,7 +18,7 @@ His greatest fan was a boy named Buddy, but the boy was denied to become Bob's s
 
 Unfortunately, as people sued superheroes, the Incredible family had to hide their abilities. Until Mr Incredible started to work secretly for an agency on an island, which made him a lot happier than before.
 
-However, Bob soon discovered that he was working for Buddy who had terminated many superheroes to upgrade his AI learning robot, Mr. Incredible got trapped.
+However, Bob soon discovered that he was working for Buddy who had terminated many superheroes to upgrade his AI learning robot so he can become the only superhero. Mr. Incredible tried to stop but got trapped.
 
 In the meantime, the superhero's wife found out Bob's secret job and decided to rescue him. On the island, the incredible family fought together against Buddy's evil plan and finally defeated the robot to save the city.
 
