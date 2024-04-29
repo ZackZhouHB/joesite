@@ -34,6 +34,13 @@ We hope they’ll stop, then it’s finally fair
 
 Sometimes, while singing this method, I feel sorry for the harmed ants.
 
-TO BE CONTINUED...
 
 ![image tooltip here](/assets/ant-revenge-1.jpg)
+
+
+<b>Chapter 1 - The End of the world</b> 
+
+One afternoon, a flood of green water crashed into our land, then I could smell something positioned everywhere, and then found all my friends and family dead. 
+
+I spotted the evil boy Joe holding a bowl and laughing menacingly, then I realized he destroyed us with his venomous formula, that was my last breath. 
+

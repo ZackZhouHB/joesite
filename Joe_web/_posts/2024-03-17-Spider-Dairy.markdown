@@ -54,6 +54,9 @@ Unfortunately, before I got a nibble, Joe took it out with his dirty hand and de
 
 ![image tooltip here](/assets/spider-dairy-2.jpg)
 
-TO BE CONTINUED...
 
+<b> End of this story 2024/04/29 </b>
 
+- When I woke up again, I found myself in a bush. Sunshine lightup in the blue sky and the wonderful smell of fresh dirt drifted onto my face.  
+
+- I realized that the boy just set me free somehow! 

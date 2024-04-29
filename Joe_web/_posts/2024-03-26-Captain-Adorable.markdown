@@ -21,11 +21,28 @@ Not long afterwards, the household figured that Amelia could produce saliva with
 
 ![image tooltip here](/assets/ca1.jpg)
 
-Ladies and Gentlemen, please meet my little sister Amelia Zhou - Captain Adorable:
-
 2 Months 
 ![image tooltip here](/assets/ca2.jpg)
 
 8 Months
 ![image tooltip here](/assets/ca3.jpg)
+
+
 Coming Soon
+
+<b>Chapter 2 - Dr. Destructe</b>
+
+<b>Chapter 3 - Secret is out</b>
+
+<b>Chapter 4 - The first fight</b>
+
+<b>Chapter 5 - The Rat</b>
+
+<b>Chapter 6 - Breaking News</b>
+
+<b>Chapter 7 - Devastration</b>
+
+<b>Chapter 8 - The final battle</b>
+
+<b>Chapter 9 - The Birthday</b>
+
