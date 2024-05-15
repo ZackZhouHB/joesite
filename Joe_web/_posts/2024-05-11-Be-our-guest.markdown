@@ -25,5 +25,29 @@ Comparing the 1991 version of "Be Our Guest" with the live-action version from 2
 
 Overall, I believe "Be Our Guest" is a sensational masterpiece by Walt Disney that will stay with me for quite some time.
 
+{% highlight shell %}
+
+In a castle dark and grand,
+Lives a Beast, under a spell so bland.
+Beauty came, with heart so kind,
+A love story, they would find.
+
+"Be Our Guest!" the dishes sing,
+A lively dance, everything!
+Candles glow and teapots twirl,
+Welcoming a special girl.
+
+Mrs. Potts and Lumière,
+Guide the night with utmost care.
+Plates and spoons join in the fun,
+Their adventure's just begun.
+
+In the end, love breaks the curse,
+Beauty's love, the universe.
+Happily ever after, they now say,
+In the castle, night and day.
+
+{% endhighlight %}
+
 
 ![image tooltip here](/assets/beourguest.png)
