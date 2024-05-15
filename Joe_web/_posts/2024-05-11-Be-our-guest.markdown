@@ -17,7 +17,7 @@ It occurs in the first half of the movie shortly after Belle exchanges places wi
 
 The feast starts with bowls jumping onto the dinner table, while Lumière lights a matchstick. Soon, everyone is dancing and singing "Be Our Guest." Belle tastes each dish presented, each one better than the last, as the plates and spoons form into the Eiffel Tower, magically indicating the story's French setting.
 
-I believe this is one of the most creatively animated songs I've ever seen. Although the technology in 1991 may not have been as advanced as it is now, hand-drawn animation was top-level back then. Perhaps "Under the Sea" from "The Little Mermaid" (1989) is comparable, as it magically combines various musical instruments into the song, amaze me same as the chopstick fighting scene from "Kung Fu Panda" (2008).
+I believe this is one of the most creatively animated songs I've ever seen. Although the technology in 1991 may not have been as advanced as it is now, its hand-drawn animation was top-level back then. Perhaps "Under the Sea" from "The Little Mermaid" (1989) is comparable, as it magically combines various musical instruments into the song, amaze me same as the chopstick fighting scene from "Kung Fu Panda" (2008).
 
 My favorite part is when Cogsworth tries to escape the scene with a funny smile as Lumière sings, "Life is so unnerving for a servant who's not serving."
 
@@ -26,6 +26,8 @@ Comparing the 1991 version of "Be Our Guest" with the live-action version from 2
 Overall, I believe "Be Our Guest" is a sensational masterpiece by Walt Disney that will stay with me for quite some time.
 
 {% highlight shell %}
+
+Be Our Guest from Beauty and the Beast
 
 In a castle dark and grand,
 Lives a Beast, under a spell so bland.
@@ -47,6 +49,7 @@ Beauty's love, the universe.
 Happily ever after, they now say,
 In the castle, night and day.
 
+# A poem powered by GPT4.0 from my drawing and writing bellow
 {% endhighlight %}
 
 
