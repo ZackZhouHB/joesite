@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Saving the Planet 2 - If I am King"
+title:  "Saving The Planet 2 - If I am King"
 date:   2024-5-21 19:15:29 +1100
 categories: jekyll Cat2
 ---
