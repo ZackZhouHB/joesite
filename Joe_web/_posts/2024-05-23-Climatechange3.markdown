@@ -5,9 +5,10 @@ date:   2024-5-23 19:15:29 +1100
 categories: jekyll Cat2
 ---
 
-Key Words: <em>"Environment"</em>  <em>"If "</em> 
+Key Words: <em>"Environment"</em>  <em>"future "</em> 
 
-Vocabularies: <mark> urge </mark>, <mark> comply </mark>,<mark> offenders </mark>,<mark> licences </mark>, <mark> imprisoned </mark>, <mark> market share </mark>, <mark> registrations </mark>, <mark> initiate </mark> , <mark> implement </mark> , <mark> mitigate </mark>
+Vocabularies: <mark> humanity </mark>, <mark> bleak </mark>,<mark> lifeless </mark>,<mark> diminished </mark>, <mark> endure </mark>, <mark> teaming </mark>, <mark> bleached </mark>, <mark> rippling </mark> , <mark> bustling </mark> , <mark> hostile </mark>, <mark> unhabitable </mark>, <mark> scattered </mark>, <mark> unforgiving </mark> , <mark> bustling </mark> , <mark> coastlines </mark>
+
 
 
 <b>Earth 2000 Years Later</b>
@@ -27,59 +28,20 @@ Tempreture keep increasing, making the planet uninhabitable for most living thin
 
 ===============================================
 
+<b>Earth 2000 Years Later - Joe revised version</b>
 
-Imagining our planet Earth 2000 years from now, if humanity fails to mitigate climate change, I foresee a bleak future:
+In the year 4024, <span style="font-size: 20px;">humanity</span>  has failed to mitigate climate change despite scientists' warnings. I see a bleak, lifeless future.
 
-Wild animals, such as jaguars, spotted treefrogs, and koalas, have become extinct. Only a handful of resilient species, capable of enduring extreme heat, manage to survive.
+Wild animals such as Jaggers, spotted treefrogs, and golden modes are now extinct or seriously <span style="font-size: 20px;">diminished</span>, with their habitat and diet destroyed by industrialization and pollution. Only a few living creatures that can endure extreme heat can survive. 
 
-Although technology has advanced significantly over the centuries, it still relies on unsustainable energy sources. Airships have replaced cars as the primary mode of transportation, and robots have taken over nearly all forms of labor.
+Coral reefs are no longer <span style="font-size: 20px;">teaming</span> with life. Instead, they are <span style="font-size: 20px;">bleached</span> and lifeless without marine animals. The fish has either died or migrated somewhere else, leaving only the sound of dull, <span style="font-size: 20px;">rippling</span> waves.
 
-The human population is declining rapidly due to severe food shortages, as crops and livestock are unable to endure the intense heat. Only the wealthy can afford the exorbitant prices of food, while countless others perish from starvation.
+Although technology has significantly advanced, it still relies on unsustainable energy sources. Airships have replaced cars, leaving permanent smog in the misty and damp sky. Robots took over most of the work, producing carbon dioxide through a hole in their heads. 
 
-The ice caps in the Arctic and Antarctic regions have almost entirely melted, leaving only a few floating remnants. This has caused sea levels to rise dramatically, forcing inhabitants of coastal countries, such as Australia, to migrate inland to the central desert areas.
+Cities and streets once <span style="font-size: 20px;">bustling</span> with joy, excitement, and activities are now barren and <span style="font-size: 20px;">hostile</span> environments. Crumpled and battered junk and robots lay scattered on the rusty metal surface of the <span style="font-size: 20px;">inhabitable</span> area.
 
-As temperatures continue to climb, the planet becomes increasingly uninhabitable for most life forms. Scarcity of food and resources leads to widespread conflict, with countries waging wars over the remaining supplies, turning the world into a patchwork of war zones.
+Furthermore, the human population is decreasing due to the lack of food supplies since crops and livestock cannot survive such hot weather. Only the rich can afford food, while many others die from starvation.
 
+The ice in the Arctic and Antarctica regions has completely melted, raising the sea level rapidly. This has created <span style="font-size: 20px;">unforgiving</span>, jagged <span style="font-size: 20px;">coastlines</span> in seaside countries. Australians have had to migrate to central desert areas, many dying of heat stroke.
 
-
-==========================================================
-
-The year is 4024. 
-
-Earth, once a thriving, blue-green beacon of life, now tells a different story. 
-
-The sky, perpetually cloaked in a pall of smog, casts an eerie, dim light over the desolate landscape. 
-
-The air is thick with toxins, and the once-vibrant blues of the oceans have turned a murky, lifeless gray.
-
-Cities, once bustling with activity and growth, now stand as crumbling ruins, overgrown with invasive species that thrive in the new, hostile environment. Towering skyscrapers, corroded by acid rain and neglect, loom like ghostly sentinels over the barren urban sprawl. 
-
-Streets that once echoed with the sounds of life are now silent, choked with sand and dust. Nature has reclaimed some areas, but it is a twisted, mutated form of nature, far removed from the lush greenery of the past.
-
-The polar ice caps, once glistening expanses of white, have long since vanished, causing sea levels to rise dramatically. 
-
-Coastal cities and countries lie submerged beneath the relentless tides. The new coastlines are jagged and unforgiving, marked by the skeletal remains of once-thriving ports and seaside resorts. 
-
-Inland, vast deserts stretch where fertile plains used to be, the soil rendered barren by extreme temperatures and relentless droughts.
-
-In the few habitable areas left, humanity clings to survival in scattered, fortified enclaves. These isolated communities are heavily reliant on advanced technology to filter air, desalinate water, and grow food in controlled environments. 
-
-Outside these sanctuaries, the world is a harsh and dangerous place, inhabited by the desperate and the displaced, fighting over the scant resources that remain.
-
-Wildlife has not been spared the devastation. Species that once roamed freely are now extinct or severely diminished, their habitats destroyed by deforestation, pollution, and climate shifts. 
-
-The majestic forests of the Amazon and Congo have been reduced to arid wastelands. Coral reefs, once teeming with life, are now bleached and barren, devoid of the vibrant ecosystems that drew countless marine species.
-
-The few surviving trees and plants are hardy, genetically modified to withstand the brutal conditions. They stand in stark contrast to the fragile remnants of nature that once flourished. 
-
-Birds are rare sights, their populations decimated by habitat loss and poisoned food chains. 
-
-Insects, resilient as ever, dominate the ruined ecosystems, though even they struggle against the changing climate.
-
-Humanity, having failed to heed the warnings of scientists and environmentalists, now faces the grim reality of their inaction. 
-
-History books, preserved in digital archives, tell of a time when the planet was rich with diversity and beauty. But those are tales of a bygone era, memories of a world lost to negligence and shortsightedness.
-
-Amidst this bleak landscape, there is still a flicker of hope. The survivors, hardened and resourceful, work tirelessly to preserve what remains of human knowledge and culture. They strive to learn from the mistakes of their ancestors, seeking ways to heal the planet and restore balance. They plant the seeds of a new beginning, hoping that, someday, the Earth might once again become a hospitable home for all forms of life.
-
-In the distant future, as the sun sets over the shattered remnants of civilization, a new generation rises. They carry with them the legacy of both destruction and resilience, determined to forge a better path. The road ahead is fraught with challenges, but the spirit of humanity endures, fueled by the hope that, despite the darkness, a brighter future is still within reach.
+As <span style="font-size: 20px;">temperature continues to climb</span>, resources such as oil and coal become so rare that countries fight each other <span style="font-size: 20px;">continuously</span>, leaving war zones all around the globe. 
