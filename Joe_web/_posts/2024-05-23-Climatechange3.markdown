@@ -38,7 +38,7 @@ Coral reefs are no longer <span style="font-size: 20px;">teaming</span> with lif
 
 Although technology has significantly advanced, it still relies on unsustainable energy sources. Airships have replaced cars, leaving permanent smog in the misty and damp sky. Robots took over most of the work, producing carbon dioxide through a hole in their heads. 
 
-Cities and streets once <span style="font-size: 20px;">bustling</span> with joy, excitement, and activities are now barren and <span style="font-size: 20px;">hostile</span> environments. Crumpled and battered junk and robots lay scattered on the rusty metal surface of the <span style="font-size: 20px;">inhabitable</span> area.
+Cities and streets once <span style="font-size: 20px;">bustling</span> with joy, excitement, and activities are now barren and <span style="font-size: 20px;">hostile</span> environments. Crumpled and battered junk and robots lay scattered on the rusty metal surface of the <span style="font-size: 20px;">uninhabitable</span> area.
 
 Furthermore, the human population is decreasing due to the lack of food supplies since crops and livestock cannot survive such hot weather. Only the rich can afford food, while many others die from starvation.
 
