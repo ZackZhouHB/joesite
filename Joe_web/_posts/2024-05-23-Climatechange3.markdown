@@ -45,3 +45,6 @@ Furthermore, the human population is decreasing due to the lack of food supplies
 The ice in the Arctic and Antarctica regions has completely melted, raising the sea level rapidly. This has created <span style="font-size: 20px;">unforgiving</span>, jagged <span style="font-size: 20px;">coastlines</span> in seaside countries. Australians have had to migrate to central desert areas, many dying of heat stroke.
 
 As <span style="font-size: 20px;">temperature continues to climb</span>, resources such as oil and coal become so rare that countries fight each other <span style="font-size: 20px;">continuously</span>, leaving war zones all around the globe. 
+
+
+![image tooltip here](/assets/climate3.png)
