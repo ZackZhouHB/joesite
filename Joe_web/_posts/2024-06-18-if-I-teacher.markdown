@@ -19,3 +19,6 @@ Next, I would try blended learning. This strategy combines face-to-face instruct
 Finally, I would utilize modern technology such as mobile apps to provide students with personalized learning recommendations. For example, I would offer AI-powered reading apps that has various materials like comic books, children's literature, and kids' magazines. Based on their choices and reading records, these apps can help identify each child's unique interests and current reading levels, allowing me to offer personalized learning content to each student.
 
 In conclusion, I believe these methods would not only be highly effective in achieving creative teaching and making learning more enjoyable for students but also create a motivated and competitive environment in a modern classroom.
+
+
+![image tooltip here](/assets/ifteacher.png)
