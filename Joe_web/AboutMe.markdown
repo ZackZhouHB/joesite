@@ -18,5 +18,3 @@ I like:
 - <b>School</b> : I am current a year 3 student at E.P.S Sydney New South Wales, Australia.
 
 - <b>Writing</b> : Since 6 years old, I have started to write several books with some of my bright and creative ideas. 
-
-![image tooltip here](/assets/son.JPG) 
